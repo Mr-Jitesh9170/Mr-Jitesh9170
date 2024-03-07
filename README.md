@@ -3,8 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 - 🔭 I’m currently working on **Social Media APP**
+- 
+- 🌱 I’m currently learning **Core Java with DSA**
 
-- 💬 Ask me about **MEARN & Core Java with DSA**
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **mr.jiteshpandey9170@gmail.com**
 
