@@ -26,5 +26,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-jitesh9170&" alt="mr-jitesh9170" />
+  <img src="https://streak-stats.demolab.com/?user=mr-jitesh9170&" alt="mr-jitesh9170" />
 </p>
