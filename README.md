@@ -1,15 +1,15 @@
 # Hi 👋, I'm Jitesh Pandey
 
-## A passionate Mern Developer from India
+## A passionate Software Developer Engineer from India
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🔭 I’m currently working on **Social Media APP**
-- 🌱 I’m currently learning **AI/Ml with Python & Java+DSA**
+- 🔭 I’m currently working on a **Social Media App**
+- 🌱 I’m currently learning **AI/ML**
 - 💬 Ask me about **MERN Stack Development**
-- 📫 How to reach me: [mr.jiteshpandey9170@gmail.com](mailto:mr.jiteshpandey9170@gmail.com)
-- ⚡ Fun fact: **I am a Coder**
-
+- 📫 Reach me at: [mr.jiteshpandey9170@gmail.com](mailto:mr.jiteshpandey9170@gmail.com)
+- ⚡ Fun fact: **I love reading anything and everything**
+ 
 ---
 
  ### Languages and Tools:
