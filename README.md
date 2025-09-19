@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jitesh Pandey!
+# Hi 👋, I am Jitesh Pandey!
 
 ## A passionate Software Developer Engineer from India!!
 
